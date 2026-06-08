@@ -92,20 +92,20 @@ python main.py
 
 After startup, speak a command such as:
 
-- “describe scene”
-- “read text”
-- “save this”
-- “recall memory”
-- “navigate”
-- “sos”
-- “exit”
+- "describe scene"
+- "read text"
+- "save this"
+- "recall memory"
+- "navigate"
+- "sos"
+- "exit"
 
 ## Project structure
 
-- `main.py` — application entry point and command loop
-- `config.py` — environment-backed configuration
-- `modules/` — voice, scene, sensory, OCR, memory, navigation, and emergency services
-- `utils/` — logging and Groq helpers
+- `main.py` - application entry point and command loop
+- `config.py` - environment-backed configuration
+- `modules/` - voice, scene, sensory, OCR, memory, navigation, and emergency services
+- `utils/` - logging and Groq helpers
 
 ## Notes
 
