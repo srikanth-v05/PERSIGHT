@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+app.log
+user_audio.wav
+memory_db/
+*.sqlite3

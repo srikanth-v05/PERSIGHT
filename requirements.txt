@@ -1,0 +1,21 @@
+
+# Environment & Config
+python-dotenv
+requests
+twilio
+
+# AI & LLM
+groq
+
+# Audio & Voice
+pyttsx3
+sounddevice
+scipy
+numpy
+
+# Image & Vision
+opencv-python
+Pillow
+
+# RAG & Vector DB
+chromadb
